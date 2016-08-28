@@ -1,3 +1,0 @@
-#!/bin/bash
-
-rm -rf ./covs; phpdbg -qrr libs/bin/phpunit --coverage-html ./covs;

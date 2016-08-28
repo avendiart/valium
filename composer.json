@@ -24,9 +24,5 @@
     "psr-4": {
       "Flattens\\": "test/"
     }
-  },
-  "config": {
-    "vendor-dir": "libs"
-  },
-  "license": "proprietary"
+  }
 }
