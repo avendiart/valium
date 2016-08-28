@@ -1,1 +1,1 @@
-<?php require "libs/autoload.php";
+<?php require 'vendor/autoload.php';
